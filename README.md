@@ -1,10 +1,3 @@
-# CarManagementSystemApplication
-
-README.md for the Car Management System
-Create a file named README.md in the root of your project with the following content:
-
-markdown
-Copy code
 # Car Management System
 
 ## Overview
@@ -40,6 +33,7 @@ Access the application at http://localhost:8080.
 API Documentation
 Swagger UI is available at:
 http://localhost:8080/swagger-ui.html
+
 Endpoints
 Method	Endpoint	Description
 GET	/api/cars	Get all cars
@@ -51,7 +45,6 @@ DELETE	/api/cars/{id}	Delete a car
 
 Hosted Application
 The application is hosted on AWS Elastic Beanstalk. You can access it here:
-
 <Hosted Application URL>
 
   
