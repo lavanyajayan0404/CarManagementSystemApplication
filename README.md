@@ -43,11 +43,6 @@ PUT	/api/cars/{id}	Update car details
 DELETE	/api/cars/{id}	Delete a car
 
 
-Hosted Application
-The application is hosted on AWS Elastic Beanstalk. You can access it here:
-<Hosted Application URL>
-
-  
 Database Configuration
 Update the following properties in the application.properties file to connect to your MySQL database:
 properties
